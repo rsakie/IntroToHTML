@@ -1,0 +1,12 @@
+﻿#firstHeading {
+    color: blue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body {
+    background-color:#DBDBC6;
+}
+.introText {
+    color:black;
+    font-family: 'Shrikhand', cursive;
+}
+
